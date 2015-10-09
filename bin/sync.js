@@ -21,7 +21,7 @@ var productTypeMap = config.mapping.product.types;
 var VDD_MOVE_FACILITY_MAP = config.mapping.facilityMapping;
 var roundId = config.mapping.roundId;
 
-
+//TODO: i just added hello world to test git work flow
 
 function log(response) {
 	var msg = JSON.stringify(response);
